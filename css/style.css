@@ -402,5 +402,32 @@ h4{font-size: 20pt}
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
+	h2{
+		padding-top:15px;
+	font-size: 250%;
+	}
+	h5{
+		font-size: 120%;
+	}
+		h3{
+	
+	font-size: 150%;
+	}
+h1{font-size: 30pt}
+h4{font-size: 15pt}
+.h2_bottom{
+	padding-top:0px;
+}
+.form_cat{
+	padding-top: 40px;
+		padding-bottom: 15px;
 
+	font-size:120%;
+	padding-right:30px;
+		padding-left:30px;
+	margin-left: auto;
+  
+  float:center;
+
+}
 }
