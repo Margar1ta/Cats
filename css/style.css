@@ -26,27 +26,29 @@ h2{
 	padding-top:25px;
 	font-size: 350%;
 	color: #fefefe;
-	}
-	h5{
+}
+h5{
 		
-			font-family:"ALSSchlangesans", "ALSSchlangesans-Bolt";
-			font-size: 180%;
-	}
-	.content4 .img_4{
-		 text-align: right;
-	}
-	h3{
+	font-family:"ALSSchlangesans", "ALSSchlangesans-Bolt";
+	font-size: 180%;
+}
+.content4 .img_4{
+	text-align: right;
+}
+h3{
 	margin-top: 0px;
-		font-family:"ALSSchlangesans", "ALSSchlangesans-Bolt";
+	font-family:"ALSSchlangesans", "ALSSchlangesans-Bolt";
 
 	padding-top:5px;
 	font-size: 250%;
 	color: #fefefe;
-	}
+}
 h1{font-size: 700%}
 h4{font-size: 350%}
-p{margin: 0 0 0;
-	padding: 5px;}
+p{
+	margin: 0 0 0;
+	padding: 5px;
+}
 footer{
 	background:#0c3c60;
 	padding: 15px 15px;
@@ -59,34 +61,35 @@ footer{
 	text-align:center;
 }
 .content1{
- margin-left: auto;
-    margin-right: auto;
+ 	margin-left: auto;
+    	margin-right: auto;
 	max-width: 75%;
 
 	width: 75%;
 	margin-top: 0px;
-text-align: center;
+	text-align: center;
 }
+
 .btn2{
 	position: relative;
-	    top: 100px;
-		font-size:150%;
-right: 0;
+	top: 100px;
+	font-size:150%;
+	right: 0;
 	background: #2140df;
 	color: #c2dadc;
 	border: 0;
 	text-decoration: none; 
-  user-select: none; 
-   padding: .7em 1.5em; 
-  outline: none; 
- margin-top:50px;
- valign:"bottom";
+ 	user-select: none; 
+  	padding: .7em 1.5em; 
+ 	outline: none; 
+ 	margin-top:50px;
+ 	valign:"bottom";
 }
 a.knopka:hover { background: rgb(232,95,76); } /* при наведении курсора мышки */
 a.knopka:active { background: rgb(152,15,0); } /* при нажатии */
 .rows{
 	margin-left: auto;
-    margin-right: auto;
+   	margin-right: auto;
 	max-width: 100%;
 	text-align: center;
 	margin-top: 60px;
@@ -100,20 +103,20 @@ a.knopka:active { background: rgb(152,15,0); } /* при нажатии */
 	height: auto;
 }
 .content2{
-text-align: center;
- margin-left: auto;
-    margin-right: auto;
+	text-align: center;
+ 	margin-left: auto;
+  	margin-right: auto;
 	max-width: 75%;
 	margin-top: 0px;
 	padding-top:20px;
 	padding-bottom:20px;
-background-image: url('../img/fon1.jpg'); 
-background-size: cover;
+	background-image: url('../img/fon1.jpg'); 
+	background-size: cover;
 }
 .content3{
 	text-align: center;
 	margin-left: auto;
-    margin-right: auto;
+    	margin-right: auto;
 	max-width: 75%;
 	min-height: 420px;
 	background-image: url('../img/fon2.jpg'); 
@@ -125,7 +128,7 @@ background-size: cover;
 .content4{
 	text-align: center;
 	margin-left: auto;
-    margin-right: auto;
+   	margin-right: auto;
 	max-width: 75%;
 	min-height:400px;
 	max-height: 700px;
@@ -135,49 +138,49 @@ background-size: cover;
 .img_4{
 	/*right:-38.6%;*/
 	 max-width: 8em; /* блок занимает ширину родителя, max-width её ограничивает */
-  min-height: 2em;
-  margin-left: auto;
-  margin-right: -2%;
+  	min-height: 2em;
+  	margin-left: auto;
+  	margin-right: -2%;
 	max-height:250px;
 	margin-bottom:auto;
-  margin-top:-1%;
+  	margin-top:-1%;
 	width:auto;
 }
 .img_4_1{
 	position:relative;
-	 max-width: 8em; /* блок занимает ширину родителя, max-width её ограничивает */
-  min-height: 2em;
-  margin-left: -1.5%;
-  margin-bottom: -6%;
-  margin-top:auto;
-  margin-right: auto;
+	max-width: 8em; /* блок занимает ширину родителя, max-width её ограничивает */
+  	min-height: 2em;
+  	margin-left: -1.5%;
+  	margin-bottom: -6%;
+  	margin-top:auto;
+  	margin-right: auto;
 	
 }
 input, select {
 	font: Arial, sans-serif;
 	float: right;
 	padding: 3px 6px;
-	 border: 1px solid #ccc;
+	border: 1px solid #ccc;
 }
 textarea {
 	float: right;
-    border: 1px solid #ccc;
+   	border: 1px solid #ccc;
 	padding-right:0px;
 }
 input[type="button"],
 input[type="submit"] {
-    padding: 2px;
+   	padding: 2px;
 	float: right;
-    width: 90px;
+    	width: 90px;
 }
 .img_3{
-display: block
+	display: block
 	width: 80%;
 }
 .img_3_div{
 	position:absolute;
-bottom:0;
-width: 60%;
+	bottom:0;
+	width: 60%;
 }
 .img_3_1{
 	position:relative;
@@ -185,14 +188,12 @@ width: 60%;
 }
 .form_cat{
 	padding-top: 90px;
-		padding-bottom: 15px;
+	padding-bottom: 15px;
 
 	font-size:120%;
 	padding-right:40px;
 	margin-left: auto;
-  
-  float:right;
-
+  	float:right;
 }
 .fon1{
 	width: 100%;
@@ -205,13 +206,12 @@ width: 60%;
 bottom: 26px;
 left:50px;*/
 	max-width: 80%;
-
 	margin: auto;
-  position: absolute;
+  	position: absolute;
   /*top:70px; left: 0; bottom: 0; right: 0;*/
-top: 80px; left: 0; bottom: auto; right: 0;
-  display: table;
-  height: auto;
+	top: 80px; left: 0; bottom: auto; right: 0;
+	  display: table;
+  	height: auto;
 }
 
 .menu{
@@ -234,14 +234,12 @@ top: 80px; left: 0; bottom: auto; right: 0;
 	color: #c1dad6;
 }
 .navbar-default .navbar-brand {
-  color: #c1dad6;
-    vertical-align: middle;
-	
-
+  	color: #c1dad6;
+    	vertical-align: middle;
 }
 .navbar-default .navbar-text {
-  color: #fcfefd;
-  vertical-align: middle;
+  	color: #fcfefd;
+  	vertical-align: middle;
 }
 .navbar-default .navbar-nav > li > a {
   color: #fcfefd;
@@ -260,10 +258,10 @@ left: 400px;
 	position: relative;
 	width:100%;
 	min-height:300px;
-padding-right: 0;
-padding-left: 0;
-margin-right: 0;
-margin-left: 0;
+	padding-right: 0;
+	padding-left: 0;
+	margin-right: 0;
+	margin-left: 0;
 	padding-bottom: 0px;
 }
 
@@ -273,8 +271,8 @@ margin-left: 0;
 	right: 0;
 	padding-left:0;
 	padding-right:0;
-		margin-top: 12%;
-		margin-right: -1.6%;
+	margin-top: 12%;
+	margin-right: -1.6%;
 	
 }
 .image_fon_1{
@@ -288,32 +286,30 @@ margin-left: 0;
 .image_fon_2{
 	position: absolute;
 	top:53em;
-		height:auto;
+	height:auto;
 width:13%;
 	right:-7em;
 }
 .image_fon_3{
 	position: absolute;
 	top:123em;
-		height:auto;
-width:13%;
-left:-1em;
+	height:auto;
+	width:13%;
+	left:-1em;
 	
 }
 .ing4_2_1{
 	width:auto;
-max-width:100%;
+	max-width:100%;
 
-height:auto;
-
+	height:auto;
 }
 .img4_1{
 	left: 0;
 	margin-top: 220px;
 	min_height:100%;
 	padding-right: 0;
-		padding-left: 0;
-
+	padding-left: 0;
 	bottom :0;
 	text-align:left;
 }
@@ -329,11 +325,11 @@ height:auto;
 }
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
-		.navbar-default .navbar-nav:not(.icons) > li > a:hover{
+.navbar-default .navbar-nav:not(.icons) > li > a:hover{
 	color: #fff;
-background: #20b2aa;
+	background: #20b2aa;
 	}
-	.img_3{
+.img_3{
 	display:block;
 	
 }
@@ -353,8 +349,8 @@ background: #20b2aa;
 	.navbar-image{
 		left: 200px;
 	}
-.img_3{
-	width: 70%;
+	.img_3{
+		width: 70%;
 	}
 }
 /* Small Devices, Tablets */
@@ -364,70 +360,67 @@ background: #20b2aa;
 		display:none;
 	}
 	.img_3{
-	display:none;
+		display:none;
 	
 }
-img.image.imagebig{
+	img.image.imagebig{
 	
-	float: none;
-	margin: auto;
-  position: absolute;
-  /*top:50px; left: 0; bottom: 0; right: 0;*/
-top: 50px; left: 0; bottom: auto; right: 0;
-  display: table;
-  height: auto;
+		float: none;
+		margin: auto;
+ 		position: absolute;
+		top: 50px; left: 0; bottom: auto; right: 0;
+ 		 display: table;
+  		height: auto;
 	}
 	.menu{
 		padding: 0 0;
 	}
 	
 	.navbar-image{
-	max-height: 1px;}
+		max-height: 1px;
+	}
 	.navbar-default .navbar-nav:not(.icons) > li > a:hover{
-	color: #fff;
-background: #20b2aa;
-}
-.navbar-collapse{
-	text-align: right;
-}
-.navbar-nav > li > a{
+		color: #fff;
+		background: #20b2aa;
+	}
+	.navbar-collapse{
+		text-align: right;
+	}
+	.navbar-nav > li > a{
 		transition: all .2s;
 	}
 	.navbar-collapse{
-	background: transparent;
-}
-h1{font-size: 40pt}
-h4{font-size: 20pt}
+		background: transparent;
+	}
+	h1{font-size: 40pt}
+	h4{font-size: 20pt}
 }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
 	h2{
 		padding-top:15px;
-	font-size: 250%;
+		font-size: 250%;
 	}
 	h5{
 		font-size: 120%;
 	}
-		h3{
-	
-	font-size: 150%;
+	h3{
+		font-size: 150%;
 	}
-h1{font-size: 30pt}
-h4{font-size: 15pt}
-.h2_bottom{
-	padding-top:0px;
-}
-.form_cat{
-	padding-top: 40px;
+	h1{font-size: 30pt}
+	h4{font-size: 15pt}
+	.h2_bottom{
+		padding-top:0px;
+	}
+	.form_cat{
+		padding-top: 40px;
 		padding-bottom: 15px;
-
-	font-size:120%;
-	padding-right:30px;
+		font-size:120%;
+		padding-right:30px;
 		padding-left:30px;
-	margin-left: auto;
-  
-  float:center;
+		margin-left: auto;
+ 		float:center;
 
-}
+	}
 }
